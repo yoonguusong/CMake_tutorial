@@ -1,8 +1,0 @@
-//use macro
-#define YG_VERSION_MAJOR @YoonguuSong_Project_VERSION_MAJOR@
-#define YG_VERSION_MINOR @YoonguuSong_Project_VERSION_MINOR@
-
-#cmakedefine USE_ADDER
-// #ifdef USE_ADDER 
-//     #include <Adder.h>
-// #endif
